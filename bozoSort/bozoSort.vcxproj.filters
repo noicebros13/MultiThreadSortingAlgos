@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Bozo.h">
+    <ClInclude Include="Algos.h">
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="inits.h">
